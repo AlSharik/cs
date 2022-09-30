@@ -1,0 +1,15 @@
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/bin/Debug/net6.0/example001_helloconsole
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/bin/Debug/net6.0/example001_helloconsole.deps.json
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/bin/Debug/net6.0/example001_helloconsole.runtimeconfig.json
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/bin/Debug/net6.0/example001_helloconsole.dll
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/bin/Debug/net6.0/ref/example001_helloconsole.dll
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/bin/Debug/net6.0/example001_helloconsole.pdb
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/obj/Debug/net6.0/example001_helloconsole.csproj.AssemblyReference.cache
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/obj/Debug/net6.0/example001_helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/obj/Debug/net6.0/example001_helloconsole.AssemblyInfoInputs.cache
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/obj/Debug/net6.0/example001_helloconsole.AssemblyInfo.cs
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/obj/Debug/net6.0/example001_helloconsole.csproj.CoreCompileInputs.cache
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/obj/Debug/net6.0/example001_helloconsole.dll
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/obj/Debug/net6.0/ref/example001_helloconsole.dll
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/obj/Debug/net6.0/example001_helloconsole.pdb
+/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/obj/Debug/net6.0/example001_helloconsole.genruntimeconfig.cache

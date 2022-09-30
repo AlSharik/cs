@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QPcj3Hceoqn0ws4AfzUMmBhW89WrTtqMqoObW2TDM1WD4vlpVHO6zvm+KuMCiXtVvnYk9XAHRSLItgo/Wis6VQ==",
+  "success": true,
+  "projectFilePath": "/home/darkdro/Desktop/test/cs_lessons/example001_helloconsole/example001_helloconsole.csproj",
+  "expectedPackageFiles": [
+    "/home/darkdro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
